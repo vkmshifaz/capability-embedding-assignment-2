@@ -1,0 +1,4 @@
+capability_1,capability_2,cosine_similarity
+CreateOrder,CreateOrderDatabase,0.8443
+CreateOrder,MakePayment,0.3302
+CreateOrder,CancelCart,0.4246
