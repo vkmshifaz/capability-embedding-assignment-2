@@ -1,5 +1,7 @@
-# Assignment 2: Vector Embedding for Capability Composition
 
+# Assignment 2: Vector Embedding for Capability Composition
+NAME: VKM MOHAMMED SHIFAZ
+REGISTER NUMBER:TCR24CS070
 ## Overview
 
 This project implements a baseline vector-embedding system for representing application states, goals, and capabilities. It explores whether numerical feature vectors can help describe functional similarity, capability compatibility, composition, goal relevance, and operational properties.
